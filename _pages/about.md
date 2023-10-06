@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-Junxiao Shen is an incoming lecturer (equivalent to assistant professor in the US) in immersive technologies at the School of Computer Science, University of Bristol. He will be a joint member of both[Bristol Vision Institute (BVI)](https://www.bristol.ac.uk/vision-institute/) and[Bristol Inteaction Group (BIG)](http://biglab.co.uk/). He was supervised by Professor Per Ola Kristensson for his Ph.D. at the Intelligent Interactive Systems Group, University of Cambridge.
+Junxiao Shen is an incoming lecturer (equivalent to assistant professor in the US) in immersive technologies at the School of Computer Science, University of Bristol. He will be a joint member of both [Bristol Vision Institute (BVI)](https://www.bristol.ac.uk/vision-institute/) and [Bristol Inteaction Group (BIG)](http://biglab.co.uk/). He was supervised by Professor Per Ola Kristensson for his Ph.D. at the Intelligent Interactive Systems Group, University of Cambridge.
 
 He has received a number of full scholarships, including the Dulwich Scholarship for his A-Level studies in London, UK; the Jardine Scholarship (comparable to the Oxford Rhodes Scholar); and the Trinity Mainland China Bursary (having ranked 1st in the college admission test) for his undergraduate and postgraduate studies at Trinity College, University of Cambridge.
 
