@@ -9,4 +9,5 @@ paperurl: #'http://shawnshenjx.github.io/files/Kwickchat.pdf'
 citation: 'Shen, J., Yang, B., Dudley, J.J. & Kristensson, P.O. (2022, March). Kwickchat: A multi-turn dialogue system for aac using context-aware sentence generation by bag-of-keywords. In 27th International Conference on Intelligent User Interfaces (pp. 853-867).'
 ---
 **Junxiao Shen**, Boyin Yang, John J Dudley, Per Ola Kristensson
+
 [Read the paper here](http://shawnshenjx.github.io/files/Kwickchat.pdf)

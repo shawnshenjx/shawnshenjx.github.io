@@ -9,4 +9,5 @@ paperurl: #'http://shawnshenjx.github.io/files/personalization_kb.pdf'
 citation: 'Shen, J., Hu, J., Dudley, J.J. & Kristensson, P.O. (2022, October). Personalization of a Mid-Air Gesture Keyboard using Multi-Objective Bayesian Optimization. In 2022 IEEE International Symposium on Mixed and Augmented Reality (pp. 702-710).'
 ---
 **Junxiao Shen**, Jinghui Hu, John Dudley, Per Ola Kristensson
+
 [Read the paper here](http://shawnshenjx.github.io/files/personalization_kb.pdf)
