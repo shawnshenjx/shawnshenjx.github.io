@@ -6,7 +6,7 @@ excerpt: #'This paper addresses the personalization of mid-air gesture keyboards
 date: 2022-12-17
 venue: '2022 IEEE International Symposium on Mixed and Augmented Reality'
 paperurl: #'http://shawnshenjx.github.io/files/personalization_kb.pdf'
-citation: 'Shen, J., Hu, J., Dudley, J.J. & Kristensson, P.O. (2022, October). Personalization of a Mid-Air Gesture Keyboard using Multi-Objective Bayesian Optimization. In 2022 IEEE International Symposium on Mixed and Augmented Reality (pp. 702-710).'
+citation: #'Shen, J., Hu, J., Dudley, J.J. & Kristensson, P.O. (2022, October). Personalization of a Mid-Air Gesture Keyboard using Multi-Objective Bayesian Optimization. In 2022 IEEE International Symposium on Mixed and Augmented Reality (pp. 702-710).'
 ---
 **Junxiao Shen**, Jinghui Hu, John Dudley, Per Ola Kristensson
 

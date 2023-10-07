@@ -6,7 +6,7 @@ excerpt: #'The paper explores reinforcement learning strategies in scenarios wit
 date: 2022-02-14
 venue: '2022 International Conference on Learning Representations'
 paperurl: #''
-citation: 'Ren, H., Sootla, A., Jafferjee, T., Shen, J., Wang, J. & Bou-Ammar, H. (2022). Reinforcement Learning in Presence of Discrete Markovian Context Evolution. In 2022 International Conference on Learning Representations.'
+citation: #'Ren, H., Sootla, A., Jafferjee, T., Shen, J., Wang, J. & Bou-Ammar, H. (2022). Reinforcement Learning in Presence of Discrete Markovian Context Evolution. In 2022 International Conference on Learning Representations.'
 ---
 Hang Ren, Aivar Sootla, Taher Jafferjee, **Junxiao Shen**, Jun Wang, Haitham Bou-Ammar
 

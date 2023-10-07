@@ -6,7 +6,7 @@ excerpt: #'This paper delves into the simulation of realistic human motion traje
 date: 2021-10-04
 venue: '2021 IEEE International Symposium on Mixed and Augmented Reality'
 paperurl: #'http://shawnshenjx.github.io/files/simulating-realistic-human-motion-trajectories.pdf'
-citation: 'Shen, J., Dudley, J. & Kristensson, P.O. (2021, October). Simulating realistic human motion trajectories of mid-air gesture typing. In 2021 IEEE International Symposium on Mixed and Augmented Reality (pp. 393-402).'
+citation: #'Shen, J., Dudley, J. & Kristensson, P.O. (2021, October). Simulating realistic human motion trajectories of mid-air gesture typing. In 2021 IEEE International Symposium on Mixed and Augmented Reality (pp. 393-402).'
 ---
 **Junxiao Shen**, John Dudley, Per Ola Kristensson
 
