@@ -8,4 +8,5 @@ venue: #'2021 16th IEEE International Conference on Automatic Face and Gesture R
 paperurl: #'http://shawnshenjx.github.io/files/imaginative_gan.pdf'
 citation: 'Shen, J., Dudley, J. & Kristensson, P.O. (2021, December). The imaginative generative adversarial network: Automatic data augmentation for dynamic skeleton-based hand gesture and human action recognition. In 2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (pp. 1-8).'
 ---
+**Junxiao Shen**, John Dudley, Per Ola Kristensson
 [Read the paper here](http://shawnshenjx.github.io/files/imaginative_gan.pdf)

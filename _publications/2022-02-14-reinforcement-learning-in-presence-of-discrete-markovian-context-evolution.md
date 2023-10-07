@@ -8,4 +8,5 @@ venue: '2022 International Conference on Learning Representations'
 paperurl: #''
 citation: 'Ren, H., Sootla, A., Jafferjee, T., Shen, J., Wang, J. & Bou-Ammar, H. (2022). Reinforcement Learning in Presence of Discrete Markovian Context Evolution. In 2022 International Conference on Learning Representations.'
 ---
+Hang Ren, Aivar Sootla, Taher Jafferjee, **Junxiao Shen**, Jun Wang, Haitham Bou-Ammar
 [Read the paper here](https://browse.arxiv.org/pdf/2202.06557.pdf)
