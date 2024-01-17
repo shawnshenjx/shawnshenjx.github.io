@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Junxiao (Shawn) Shen"
 title_separator          : "-"
 name                     : &name "Junxiao (Shawn) Shen"
-description              : &description "Incoming Lecturer (Assitant Professor) at University of Bristol"
+description              : &description "Incoming Lecturer (Assistant Professor) at University of Bristol"
 url                      : https://shawnshenjx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shawnshenjx/academicpages.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Junxiao Shen"
-  avatar           : "profile.jpg"
-  bio              : "Incoming Lecturer (Assitant Professor) at University of Bristol"
+  avatar           : "img.png"
+  bio              : "Incoming Lecturer (Assistant Professor) at University of Bristol"
   location         : "United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
