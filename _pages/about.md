@@ -15,7 +15,9 @@ Junxiao Shen is an incoming lecturer (equivalent to assistant professor in the U
 He has received a number of full scholarships, including the Dulwich Scholarship for his A-Level studies in London, UK; the Jardine Scholarship (comparable to the Oxford Rhodes Scholar); and the Trinity Mainland China Bursary (having ranked 1st in the college admission test) for his undergraduate and postgraduate studies at Trinity College, University of Cambridge.
 
 
-His research interests include innovating next-generation input techniques (e.g., text entry, gestural interactions) and interactive AI applications (e.g., context-aware, multi-modal AI for super virtual assistants) within Mixed Reality (MR), which he believes is the next-generation computing platform. He thinks that combining AI and MR can augment human abilities. He proposes state-of-the-art machine learning techniques to solve interactive problems for the next-generation computing platform. See his [research statement](http://shawnshenjx.github.io/files/Research_Statement.pdf) for detailed description of his research interest and future directions.
+His research interests include innovating next-generation input techniques (e.g., text entry, gestural interactions) and interactive AI applications (e.g., context-aware, multi-modal AI for super virtual assistants) within Mixed Reality (MR), which he believes is the next-generation computing platform. He thinks that combining AI and MR can augment human abilities. He proposes state-of-the-art machine learning techniques to solve interactive problems for the next-generation computing platform. 
+
+[//]: # (See his [research statement]&#40;http://shawnshenjx.github.io/files/Research_Statement.pdf&#41; for detailed description of his research interest and future directions.)
 
 
 About University of Bristol
