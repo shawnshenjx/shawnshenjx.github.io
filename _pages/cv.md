@@ -29,6 +29,10 @@ Education
 
 Professional Experience
 ======
+* **Director**, OpenInterX Research, London, UK, Feb. 2024 - Present
+
+* **Lecturer (Assistant Professor)**, University of Bristol, Bristol, UK, Aug. 2024 - Present
+
 * **Research Scientist**, Reality Lab Research, Meta, Redmond, USA, Sep. 2023 - Feb. 2024
 
 * **Research Scientist Intern**, Reality Lab Research, Meta, Redmond, USA, Jun. 2022 - Dec. 2022
