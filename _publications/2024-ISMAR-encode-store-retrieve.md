@@ -1,10 +1,9 @@
 ---
-title: "Encode-Store-Retrieve: Enhancing Memory Augmentation through Language-Encoded Egocentric Perception"
+title: "Towards Open-World Gesture Recognition"
 collection: publications
-permalink: /publication/2024-ISMAR-encode-store-retrieve
-date: 2024-10-15
+permalink: /publication/2024-ISMAR-open-world-gesture-recognition
+date: 2024-10
 venue: '2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)'
-citation: 'Shen, J., Dudley, J., & Kristensson, P.O. (2024, October). Encode-Store-Retrieve: Enhancing Memory Augmentation through Language-Encoded Egocentric Perception. In 2024 IEEE International Symposium on Mixed and Augmented Reality.'
+citation: 'Shen, J., De Lange, M., Xu, X., Zhou, E., Tan, R., Suda, N., Kristensson, P.O., Karlson, A., & Strasnick, E. (2024). Towards Open-World Gesture Recognition. In 2024 IEEE International Symposium on Mixed and Augmented Reality.'
 ---
-**Junxiao Shen**, John Dudley, Per Ola Kristensson
-
+**Junxiao Shen**, Matthias De Lange, Xuhai "Orson" Xu, Enmin Zhou, Ran Tan, Naveen Suda, Per Ola Kristensson, Amy Karlson, Evan Strasnick
