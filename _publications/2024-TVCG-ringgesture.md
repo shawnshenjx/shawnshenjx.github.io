@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-TVCG-ringgesture
 date: 2024-10
 venue: 'IEEE Transactions on Visualization and Computer Graphics (TVCG) 2024'
-citation: 'Shen, J., Boldu, R., Kalla, A., Glueck, M., Surale, H.B., & Karlson, A. (2024). RingGesture: A Ring-Based Mid-Air Gesture Typing System Powered by a Deep-Learning Word Prediction Framework. In IEEE Transactions on Visualization and Computer Graphics.'
+citation: # 'Shen, J., Boldu, R., Kalla, A., Glueck, M., Surale, H.B., & Karlson, A. (2024). RingGesture: A Ring-Based Mid-Air Gesture Typing System Powered by a Deep-Learning Word Prediction Framework. In IEEE Transactions on Visualization and Computer Graphics.'
 ---
 **Junxiao Shen**, Roger Boldu, Arpit Kalla, Michael Glueck, Hemant Bhaskar Surale, Amy Karlson
 
