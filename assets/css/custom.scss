@@ -1,0 +1,41 @@
+---
+---
+@charset "utf-8";
+
+/* Modern visual improvements */
+.author__avatar img {
+  border-radius: 50% !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  border: 3px solid #e94560;
+  transition: transform 0.3s ease;
+}
+.author__avatar img:hover {
+  transform: scale(1.05);
+}
+.author__name {
+  font-weight: 600 !important;
+  font-size: 1.2em !important;
+}
+.author__bio {
+  font-style: normal !important;
+  color: #555 !important;
+  line-height: 1.6 !important;
+}
+.page__content h1,
+.page__content h2 {
+  border-bottom: 2px solid #e94560;
+  padding-bottom: 0.4rem;
+}
+.page__content {
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+.masthead {
+  border-bottom: 2px solid #e94560;
+}
+.greedy-nav a {
+  font-weight: 500;
+}
+.greedy-nav a:hover {
+  color: #e94560 !important;
+}
