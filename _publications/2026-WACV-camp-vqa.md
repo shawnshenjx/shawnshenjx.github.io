@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2026-WACV-camp-vqa
 date: 2026-01-22
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026'
+paperurl: 'https://arxiv.org/abs/2511.07290'
 citation: 'Wang, X., Katsenou, A., Shen, J., Bull, D. (2026). CAMP-VQA: Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video. In IEEE/CVF Winter Conference on Applications of Computer Vision.'
 ---
 Xinyao Wang, Angeliki Katsenou, **Junxiao Shen**, David Bull

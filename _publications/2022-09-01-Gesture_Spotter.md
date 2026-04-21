@@ -2,13 +2,12 @@
 title: "Gesture Spotter: A Rapid Prototyping Tool for Key Gesture Spotting in Virtual and Augmented Reality Applications"
 collection: publications
 permalink: /publication/2022-09-01-Gesture_Spotter
-excerpt: #'The paper presents Gesture Spotter, a tool designed for rapid prototyping and evaluation of key gesture spotting algorithms in virtual and augmented reality environments.'
+excerpt: 'Open-source toolkit for rapid prototyping of key-gesture spotting algorithms in VR and AR. Presented at IEEE ISMAR; published in TVCG.'
 date: 2022-09-01
-venue: 'IEEE Transactions on Visualization and Computer Graphics (TVCG)'
-paperurl: #'http://shawnshenjx.github.io/files/Gesture_Spotter.pdf'
-citation: #'Shen, J., Dudley, J., Mo, G. & Kristensson, P.O. (2022). Gesture Spotter: A Rapid Prototyping Tool for Key Gesture Spotting in Virtual and Augmented Reality Applications. IEEE Transactions on Visualization and Computer Graphics, 28(11), pp.3618-3628.'
+venue: 'IEEE Transactions on Visualization and Computer Graphics (TVCG), 28(11):3618&#8211;3628 (presented at ISMAR 2022)'
+paperurl: 'https://shawnshenjx.github.io/files/Gesture_Spotter.pdf'
+citation: 'Shen, J., Dudley, J., Mo, G. &amp; Kristensson, P.O. (2022). Gesture Spotter: A Rapid Prototyping Tool for Key Gesture Spotting in Virtual and Augmented Reality Applications. IEEE Transactions on Visualization and Computer Graphics, 28(11):3618&#8211;3628.'
 ---
 **Junxiao Shen**, John Dudley, George Mo, Per Ola Kristensson
 
-[Read the paper here](http://shawnshenjx.github.io/files/Gesture_Spotter.pdf)
-[Watch demo video here](https://www.youtube.com/watch?v=ctY8-VT6MDY&feature=youtu.be)
+Open-source toolkit enabling rapid prototyping and evaluation of key-gesture spotting in VR/AR. [Demo video](https://www.youtube.com/watch?v=ctY8-VT6MDY).

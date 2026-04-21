@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Junxiao (Shawn) Shen"
 title_separator          : "-"
 name                     : &name "Junxiao (Shawn) Shen"
-description              : &description "Assistant Professor at University of Bristol | Co-founder of Memories.ai"
+description              : &description "Lecturer (Assistant Professor) at the University of Bristol | Co-Founder &amp; Chief Scientist at Memories.ai (OpenInterX)"
 url                      : https://shawnshenjx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shawnshenjx/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Junxiao Shen"
   avatar           : "img.png"
-  bio              : "Assistant Professor, University of Bristol. Co-founder of Memories.ai"
-  location         : "United Kingdom"
-  employer         :
+  bio              : "Lecturer (Assistant Professor), University of Bristol · Co-Founder &amp; Chief Scientist, Memories.ai (OpenInterX)"
+  location         : "Bristol, United Kingdom"
+  employer         : "University of Bristol"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0-qmmqkAAAAJ&hl=en"
-  email            : "junxiao.shen@bristol.ac.uk"
+  email            : "shawn.shen@bristol.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
