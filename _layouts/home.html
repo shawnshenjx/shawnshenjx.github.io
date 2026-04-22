@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="hero-photo">
+    <img src="{{ site.baseurl }}/images/img.png" alt="{{ site.author.name }}">
+  </div>
+  <div>
+    <h1>{{ site.author.name }}</h1>
+    <p class="role">
+      Lecturer (Assistant Professor), <strong>University of Bristol</strong><br>
+      Co-Founder &amp; Chief Scientist, <strong><a href="https://memories.ai">Memories.ai</a></strong> (OpenInterX)
+    </p>
+    <div class="social">
+      <a href="mailto:{{ site.author.email }}">Email</a>
+      <a href="{{ site.author.googlescholar }}">Scholar</a>
+      <a href="{{ site.author.orcid }}">ORCID</a>
+      <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>
+      <a href="{{ site.baseurl }}/cv/">CV</a>
+    </div>
+  </div>
+</section>
+
+{{ content }}
