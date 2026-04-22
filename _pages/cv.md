@@ -13,13 +13,13 @@ A [PDF version of my CV](/files/Research_Statement.pdf) is also available.
 
 Present Appointments
 ======
-- **Lecturer (Assistant Professor)**, School of Computer Science, University of Bristol — *Sep 2024 – present*
+- **Assistant Professor**, School of Computer Science, University of Bristol — *Sep 2024 – present*
   - Lead research group of 5 Ph.D. students
   - Director of Individual Projects (100+ students)
-  - Lead Lecturer, *Advanced Visual AI (COMSM0160)*
-  - Lecturer, *Innovation Case*
+  - Instructor, *Advanced Visual AI (COMSM0160)*
+  - Instructor, *Innovation Case*
 
-- **Co-Founder &amp; Chief Scientist**, Memories.ai (OpenInterX), London / Shanghai — *2023 – present*
+- **Co-Founder &amp; Chief Scientist**, Memories.ai, London / Shanghai — *2023 – present*
   - Enterprise AI platform for visual memory and temporal computing
   - $15M+ Series A (Samsung NEXT, Susa Ventures, Fusion Fund)
   - 45+ enterprise customers; partnerships with NVIDIA, KDDI Japan, Samsung
@@ -94,13 +94,13 @@ Professional Service
 
 Teaching (Bristol)
 ======
-- **Advanced Visual AI (COMSM0160)** — Lead Lecturer, MSc &amp; 4th-year UG (Fall 2024, 2025)
-- **Innovation Case** — Lecturer, 100+ UG (Winter 2025, 2026)
+- **Advanced Visual AI (COMSM0160)** — Instructor, MSc &amp; 4th-year UG (Fall 2024, 2025)
+- **Innovation Case** — Instructor, 100+ UG (Winter 2025, 2026)
 - **Director of Individual Projects** — University-level responsibility (2025 – present)
 
 Enterprise &amp; Impact
 ======
-- **Memories.ai / OpenInterX** — Co-Founder &amp; Chief Scientist. $15M+ raised; 45+ enterprise customers; 25+ high-skilled technology jobs created across London and Shanghai.
+- **Memories.ai** — Co-Founder &amp; Chief Scientist. $15M+ raised; 45+ enterprise customers; 25+ high-skilled technology jobs created across London and Shanghai.
 - **Industry partnerships** — NVIDIA (GTC 2026 keynote; joint research on video intelligence); KDDI Japan ($100K+ proof-of-concept; 5G integration); Samsung NEXT (venture investment; mobile/edge AI).
 
 Public Engagement &amp; Media

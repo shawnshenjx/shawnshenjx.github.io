@@ -2,13 +2,13 @@
 layout: home
 permalink: /
 title: ""
-description: "Lecturer (Assistant Professor) at the University of Bristol; Co-Founder & Chief Scientist at Memories.ai. Research on visual AI, HCI in extended reality, and long-form video understanding."
+description: "Assistant Professor at the University of Bristol; Co-Founder & Chief Scientist at Memories.ai. Research on visual AI, HCI in extended reality, and long-form video understanding."
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) in the [School of Computer Science](https://www.bristol.ac.uk/engineering/schools/computer-science/) at the **University of Bristol**, and Co-Founder & Chief Scientist of [**Memories.ai**](https://memories.ai) (now OpenInterX). I am a joint member of the [Bristol Vision Institute](https://www.bristol.ac.uk/vision-institute/) and the [Bristol Interaction Group](http://biglab.co.uk/). I completed my Ph.D. at the Machine Intelligence Laboratory, University of Cambridge, supervised by [Prof. Per Ola Kristensson](https://pokristensson.com/).
+I am an Assistant Professor in the [School of Computer Science](https://www.bristol.ac.uk/engineering/schools/computer-science/) at the **University of Bristol**, and Co-Founder & Chief Scientist of [**Memories.ai**](https://memories.ai). I am a joint member of the [Bristol Vision Institute](https://www.bristol.ac.uk/vision-institute/) and the [Bristol Interaction Group](http://biglab.co.uk/). I completed my Ph.D. at the Machine Intelligence Laboratory, University of Cambridge, supervised by [Prof. Per Ola Kristensson](https://pokristensson.com/).
 
 My research sits at the intersection of **visual AI, human–computer interaction in extended reality, and long-form video understanding** — building systems that can perceive, remember, and interact with people over long horizons. I lead a research group of 5 Ph.D. students and serve as **Director of Individual Projects**, the School's largest undergraduate programme.
 
@@ -32,7 +32,7 @@ In parallel, Memories.ai translates this research into commercial products — s
 <li><span class="when">Oct 2025</span><div><strong>CULTURE3D</strong> accepted to <em>ICCV 2025</em>; <strong>X-LeBench</strong> to <em>EMNLP 2025</em> (Findings).</div></li>
 <li><span class="when">2025</span><div>Awarded <strong>US EB1A</strong> (Extraordinary Ability) for research and entrepreneurship.</div></li>
 <li><span class="when">2025</span><div>UKRI grant (<strong>£450k</strong>, PI) — <em>Visual Memory Systems for AI Applications</em> (2025–2028).</div></li>
-<li><span class="when">Sep 2024</span><div>Joined the <strong>University of Bristol</strong> as Lecturer.</div></li>
+<li><span class="when">Sep 2024</span><div>Joined the <strong>University of Bristol</strong> as Assistant Professor.</div></li>
 <li><span class="when">2023</span><div>Awarded the <strong>Meta PhD Fellowship</strong> in AR/VR HCI.</div></li>
 </ul>
 
