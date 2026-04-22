@@ -28,7 +28,19 @@ permalink: /publications/
       {% if post.venue %}<div class="pub-venue">{{ post.venue }}</div>{% endif %}
       {% if desc_p and desc_p != "" %}<div class="pub-excerpt">{{ desc_p }}</div>{% elsif post.excerpt and post.excerpt != "" %}<div class="pub-excerpt">{{ post.excerpt | strip_html | strip_newlines }}</div>{% endif %}
       <div class="pub-links">
-        {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
+        {% if post.paperurl %}
+          {% if post.paperurl contains "arxiv.org/abs/" %}
+            {% assign pdf_url = post.paperurl | replace: "/abs/", "/pdf/" | append: ".pdf" %}
+            <a href="{{ pdf_url }}">PDF</a>
+            <a href="{{ post.paperurl }}">arXiv</a>
+          {% elsif post.paperurl contains ".pdf" %}
+            <a href="{{ post.paperurl }}">PDF</a>
+          {% elsif post.paperurl contains "doi.org" %}
+            <a href="{{ post.paperurl }}">DOI</a>
+          {% else %}
+            <a href="{{ post.paperurl }}">Paper</a>
+          {% endif %}
+        {% endif %}
         <a href="{{ post.url | prepend: site.baseurl }}">Details</a>
       </div>
     </li>

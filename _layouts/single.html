@@ -11,7 +11,19 @@ layout: default
       {% if page.date %} &middot; {{ page.date | date: "%B %Y" }}{% endif %}
     </p>
     {% if page.paperurl %}
-      <p class="pub-links"><a href="{{ page.paperurl }}">Paper / arXiv</a></p>
+      <p class="pub-links">
+        {% if page.paperurl contains "arxiv.org/abs/" %}
+          {% assign pdf_url = page.paperurl | replace: "/abs/", "/pdf/" | append: ".pdf" %}
+          <a href="{{ pdf_url }}">PDF</a>
+          <a href="{{ page.paperurl }}">arXiv</a>
+        {% elsif page.paperurl contains ".pdf" %}
+          <a href="{{ page.paperurl }}">PDF</a>
+        {% elsif page.paperurl contains "doi.org" %}
+          <a href="{{ page.paperurl }}">DOI</a>
+        {% else %}
+          <a href="{{ page.paperurl }}">Paper</a>
+        {% endif %}
+      </p>
     {% endif %}
     {% if page.citation %}
       <h4>Citation</h4>
