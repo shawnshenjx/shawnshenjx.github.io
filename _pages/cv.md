@@ -56,12 +56,6 @@ Awards, Honours &amp; Distinctions
 - **Dulwich Scholarship** — 2014 (2 Chinese students per year; $100,000)
 - **Gold Medal**, British Physics Olympiad — 2016
 
-Research Funding (PI)
-======
-- **UKRI** — *Visual Memory Systems for AI Applications* — 2025–2028 — **£450,000** — PI (100%)
-- **InnovateUK** — *Efficient Video Understanding for Mobile Devices* — 2024–2026 — **£150,000** — PI (85%)
-- **Meta Research Award** — *Gesture Recognition in Mixed Reality* — 2023–2024 — **$50,000** — PI (100%)
-
 Research Supervision
 ======
 **Current Ph.D. students** (University of Bristol):

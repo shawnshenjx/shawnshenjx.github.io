@@ -31,7 +31,6 @@ In parallel, Memories.ai translates this research into commercial products — s
 <li><span class="when">Jan 2026</span><div><strong>MARC</strong> accepted to <em>ICLR 2026</em>; <strong>ST-Think</strong> and <strong>CAMP-VQA</strong> to <em>WACV 2026</em>.</div></li>
 <li><span class="when">Oct 2025</span><div><strong>CULTURE3D</strong> accepted to <em>ICCV 2025</em>; <strong>X-LeBench</strong> to <em>EMNLP 2025</em> (Findings).</div></li>
 <li><span class="when">2025</span><div>Awarded <strong>US EB1A</strong> (Extraordinary Ability) for research and entrepreneurship.</div></li>
-<li><span class="when">2025</span><div>UKRI grant (<strong>£450k</strong>, PI) — <em>Visual Memory Systems for AI Applications</em> (2025–2028).</div></li>
 <li><span class="when">Sep 2024</span><div>Joined the <strong>University of Bristol</strong> as Assistant Professor.</div></li>
 <li><span class="when">2023</span><div>Awarded the <strong>Meta PhD Fellowship</strong> in AR/VR HCI.</div></li>
 </ul>
@@ -43,12 +42,6 @@ In parallel, Memories.ai translates this research into commercial products — s
 - **Trinity Mainland China Scholarship**, 2020 (ranked 1st in college admission)
 - **Jardine Foundation Scholarship**, 2016
 - **Gold Medal**, British Physics Olympiad, 2016
-
-## Research Funding (PI)
-
-- **UKRI** — *Visual Memory Systems for AI Applications* — 2025–2028 — **£450,000**
-- **InnovateUK** — *Efficient Video Understanding for Mobile Devices* — 2024–2026 — **£150,000**
-- **Meta Research Award** — *Gesture Recognition in Mixed Reality* — 2023–2024 — **$50,000**
 
 ## Prospective Students
 
